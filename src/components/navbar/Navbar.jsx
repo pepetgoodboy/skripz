@@ -64,6 +64,9 @@ export default function Navbar() {
           >
             Kontak
           </Link>
+          <button className="bg-white hover:bg-neutral-100 border border-[#001688] text-[#001688] cursor-pointer transition-all duration-200 ease-in-out font-medium py-1.5 2xl:py-3 px-6 2xl:px-8 rounded-md">
+            Daftar
+          </button>
           <button className="bg-[#001688] hover:bg-[#2E7BC7] cursor-pointer transition-all duration-200 ease-in-out text-white font-medium py-1.5 2xl:py-3 px-6 2xl:px-8 rounded-md">
             Masuk
           </button>
@@ -160,6 +163,9 @@ export default function Navbar() {
               >
                 Kontak
               </Link>
+              <button className="w-full max-w-32 bg-white hover:bg-neutral-100 border border-[#001688] text-[#001688] cursor-pointer transition-all duration-200 ease-in-out font-medium py-1.5 2xl:py-3 px-6 2xl:px-8 rounded-md">
+                Daftar
+              </button>
               <button className="w-full max-w-32 bg-[#001688] hover:bg-[#2E7BC7] cursor-pointer transition-all duration-200 ease-in-out text-white font-medium py-1.5 2xl:py-3 px-6 2xl:px-8 rounded-md">
                 Masuk
               </button>
